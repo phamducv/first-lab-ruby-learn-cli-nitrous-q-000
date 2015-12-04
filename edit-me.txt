@@ -1,1 +1,3 @@
-yo saving this so i pass
+def greeting=(name)
+
+end
